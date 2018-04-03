@@ -1,0 +1,5 @@
+realtime_acc_gui.m es el programa principal que se debe abrir
+realtime_acc_gui.fig define la forma de la interfaz, debe ir junto al anterior
+heeltest.m es el programa que emula una señal en tiempo real desde un archivo guardado, y detecta los pasos,-
+con amplitudes y periodos. Los .csv que abre deben estar en la misma carpeta que heeltest.m
+
